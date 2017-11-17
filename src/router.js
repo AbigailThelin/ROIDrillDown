@@ -1,7 +1,7 @@
-import react, {Component} from 'react'
+import React from 'react'
 import {Switch, Route} from 'react-router-dom'
 
-import ROI from './src/ROI.js'
+import ROI from './ROI.js'
 
 export default(
 
